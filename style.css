@@ -71,10 +71,7 @@
     text-decoration: none;
     word-spacing: -1px;
 }
- .icons2:hover{
-     transition: 1s ease-in;
-    transform:scale(0.8);
-}
+
 a{
     text-decoration: none;
 }
